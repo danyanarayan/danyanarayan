@@ -14,7 +14,7 @@
 - 🤔 I’m looking for help for an Internship.
 - 📫 How to reach me: <a href="mailto:danyanarayan.1966@gmail.com">danyanarayan.1966@gmail.com</a>
 - 🟦  <a href="https://www.linkedin.com/in/danyanarayan/">LINKEDIN</a>
-<!-- - 📝[Resume](link-here) -->
+- 📝 My portfolio:<a href="https://danyanarayan.github.io/portfolio/">click here</a>
 
 ## Languages and Tools:
 
